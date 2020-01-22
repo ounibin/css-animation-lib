@@ -1,0 +1,16 @@
+{
+  "name": "css-animation-lib",
+  "version": "1.0.0",
+  "description": "some animation by css",
+  "main": "index.js",
+  "dependencies": {
+    "css-spring": "^4.1.0",
+    "gka": "^2.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangkj",
+  "license": "MIT"
+}
